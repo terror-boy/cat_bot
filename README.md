@@ -2,7 +2,7 @@
 ## This is a cat bot madded by basil ser🥶..
 
 <div align="center">
-  <img border-radius: 15px src="https://avatars.githubusercontent.com/u/83832372?v=4" width="200" height="200"/>
+  <img border-radius: 15px src="https://i.imgur.com/4e0o44j.jpeg" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="CATBOT" src="https://img.shields.io/badge/itsmebasil0-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
