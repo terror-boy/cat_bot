@@ -1,10 +1,10 @@
-## CATBOT
+# CATBOT
 ## This is a cat bot madded by basil ser🥶..
 
 <div align="center">
   <img border-radius: 15px src="https://avatars.githubusercontent.com/u/83832372?v=4" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="CATBOT" src="https://img.shields.io/badge/afnanplk-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="CATBOT" src="https://img.shields.io/badge/itsmebasil0-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://chat.whatsapp.com/Eq2IZ59kFaBEp8M8Y3Nrqd"><img title="join support" src="https://img.shields.io/badge/join_support-afnanplk/pinkymwol?color=black&style=for-the-badge&logo=whatsapp"></a>
