@@ -113,7 +113,7 @@
          "BOT_NAME": {
             "description": "heading for .list command reply",
             "required": false,
-            "value": "•━━━╼⤏CAT BOT⤎╾━━━•"
+            "value": "•━━━╼⤏PUCHA SIR⤎╾━━━•"
         },      
         "TALKING_PINKY": {
             "description": "Hesabınızı bir Chatbot'a Çevirin! Turn your account into a chatbot!",
