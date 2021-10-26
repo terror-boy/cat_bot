@@ -21,7 +21,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*creater Amal*
 *To check update .update   To update Bot .update now*
 
-*githublink : https://github.com/cyberchekuthan/Amalser_v2*
+*githublink : https://github.com/Itsmebasil0/cat_bot*
 
 *audio commads : https://github.com/cyberchekuthan/Amalser_v2/tree/master/uploads*
 `}) 
