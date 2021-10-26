@@ -55,7 +55,7 @@ the user is responsible.
   
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/itsmebasil0/cat_bot)
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@itsmebasil0/cat_bot)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@mmAA3/Catbot-QR-2)
      </div>
 <br>
 <br >
