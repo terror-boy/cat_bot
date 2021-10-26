@@ -1,8 +1,8 @@
 FROM fusuf/whatsasena:latest
 
-RUN git clone https://github.com/afnanplk/Pinky /root/WhatsAsenaDuplicated
+RUN git clone https://github.com/Itsmebasil0/cat_bot /root/WhatsAsenaDuplicated
 WORKDIR /root/WhatsAsenaDuplicated/
-RUN git clone https://github.com/afnanplk/uploads
+RUN git clone https://github.com/itsmebasil0/uploads
 ENV TZ=Europe/Istanbul
 RUN npm install supervisor -g
 RUN yarn install --no-audit
