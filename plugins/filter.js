@@ -1,6 +1,6 @@
 /* Copyright (C) 2020 farhan-dqz.
-re codded by afnan plk
-PINKY
+re codded by itsmebasil0
+catbot
 */
 const fs = require('fs')
 const MyPnk = require('../events');
@@ -9,7 +9,7 @@ const FilterDb = require('./sql/filters');
 const Config = require('../config')
 const Catbot = require('../catbot')
 const afn = Config.PLKS !== false ? Config.PLKS.split(',') : [];
-const afnp = Pinky.PLKAFN !== false ? Pinky.PLKAFN.split(',') : [];
+const afnp = catbot.PLKAFN !== false ? catbot.PLKAFN.split(',') : [];
 const jid = Config.DISBGM !== false ? Config.DISBGM.split(',') : [];
 const Language = require('../language');
 const Lang = Language.getString('filters');
