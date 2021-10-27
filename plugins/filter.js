@@ -8,6 +8,7 @@ const {MessageType, Mimetype } = require('@adiwajshing/baileys');
 const FilterDb = require('./sql/filters');
 const Config = require('../config')
 const Catbot = require('../catbot')
+const catbot = require('../catbot')
 const afn = Config.PLKS !== false ? Config.PLKS.split(',') : [];
 const afnp = catbot.PLKAFN !== false ? catbot.PLKAFN.split(',') : [];
 const jid = Config.DISBGM !== false ? Config.DISBGM.split(',') : [];
