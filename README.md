@@ -1,5 +1,5 @@
 # cat_bot
-## This is a cat bot madded by basil ser🥶..
+## This is a cat bot made by basil ser🥶..
 
 <div align="center">
   <img border-radius: 15px src="https://i.imgur.com/4e0o44j.jpeg" width="200" height="200"/>
@@ -11,7 +11,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/itsmebaail"0>itsmebasil0</a> to make it public
+Project created by <a href="https://github.com/itsmebasil"0>itsmebasil0</a> to make it public
     <br>
        | © |
         Reserved |
@@ -21,13 +21,13 @@ Project created by <a href="https://github.com/itsmebaail"0>itsmebasil0</a> to m
 ----
 
   <p align="center">
-  <a href="https://github.com/afnanplk/pinkymwol ">
-    <img src="https://img.shields.io/github/repo-size/afnanplk/lastpink?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="https://github.com/Itsmebasil0/cat_bot">
+    <img src="https://img.shields.io/github/repo-size/Itsmebasil0/cat_bot?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/itsmebasil0/followers"><img title="Followers" src="https://img.shields.io/github/followers/afnanplk?color=red&style=flat-circle"></a>
-<a href="https://github.com/itsmebasil0/cat_bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/afnanplk/lastpink?color=red&style=flat-square"></a>
-<a href="https://github.com/itsmebasil0/cat_bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/afnanplk/lastpink?color=red&style=flat-square"></a>
-<a href="https://github.com/itsmebasil0/cat_bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/afnanplk/lastpink?label=Watchers&color=red&style=flat-square"></a>
+<a href="https://github.com/itsmebasil0/followers"><img title="Followers" src="https://img.shields.io/github/followers/Itsmebasil0?color=red&style=flat-circle"></a>
+<a href="https://github.com/itsmebasil0/cat_bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Itsmebasil0/cat_bot?color=red&style=flat-square"></a>
+<a href="https://github.com/itsmebasil0/cat_bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Itsmebasil0/cat_bot?color=red&style=flat-square"></a>
+<a href="https://github.com/itsmebasil0/cat_bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Itsmebasil0/cat_bot?label=Watchers&color=red&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 
 ```
